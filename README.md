@@ -25,3 +25,5 @@ is highlighted in the comments and command line.
 There are a few console prints, which are intentional to highlight the behaviors implemented/tested. 
 
 This was created using the Eclipse IDE and then tested via command line.
+
+Note: index.html is just an sample Apache page for quick testing.
